@@ -11,7 +11,6 @@ Our research aims to address several key questions, including: What types of ML 
 Overall, this research has the potential to make a significant contribution to the field of weather prediction and inform future research in this area. By demonstrating the effectiveness of ML for predicting weather conditions, we hope to inspire further exploration and innovation in this important domain.
 
 ## Conclusion
-
 Here, we will use a typical model from the number of models built above to test the results. We will choose a model built with Decision Tree with variable `month` that stores month information extracted from `date` variable, with parameter max_depth = 4. This model has an accuracy of 0.8387.
 
 
