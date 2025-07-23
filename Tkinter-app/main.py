@@ -62,3 +62,4 @@ weather_label.grid(row=7, columnspan=2, padx=10, pady=10)
 
 # Start the Tkinter event loop
 window.mainloop()
+
